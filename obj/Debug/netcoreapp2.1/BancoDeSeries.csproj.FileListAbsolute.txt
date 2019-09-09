@@ -1,0 +1,66 @@
+C:\Users\Cliente\Desktop\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.deps.json
+C:\Users\Cliente\Desktop\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.json
+C:\Users\Cliente\Desktop\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.dev.json
+C:\Users\Cliente\Desktop\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.dll
+C:\Users\Cliente\Desktop\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.pdb
+C:\Users\Cliente\Desktop\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.dll
+C:\Users\Cliente\Desktop\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.pdb
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.deps.json
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.json
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.dev.json
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.dll
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.pdb
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.csprojAssemblyReference.cache
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfoInputs.cache
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfo.cs
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.dll
+C:\Users\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.pdb
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.deps.json
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.json
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.dev.json
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.dll
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\bin\Debug\netcoreapp2.1\BancoDeSeries.pdb
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.csprojAssemblyReference.cache
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.csproj.CoreCompileInputs.cache
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfoInputs.cache
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfo.cs
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.dll
+D:\Cliente\OneDrive\Projetos\BancoDeSeries\obj\Debug\netcoreapp2.1\BancoDeSeries.pdb
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\bin\Debug\netcoreapp2.1\BancoDeSeries.deps.json
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.json
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.dev.json
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\bin\Debug\netcoreapp2.1\BancoDeSeries.dll
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\bin\Debug\netcoreapp2.1\BancoDeSeries.pdb
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\obj\Debug\netcoreapp2.1\BancoDeSeries.csprojAssemblyReference.cache
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\obj\Debug\netcoreapp2.1\BancoDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfoInputs.cache
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfo.cs
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\obj\Debug\netcoreapp2.1\BancoDeSeries.dll
+C:\Users\geraldo.silva\Downloads\BancoDeSeries (1)\obj\Debug\netcoreapp2.1\BancoDeSeries.pdb
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\bin\Debug\netcoreapp2.1\BancoDeSeries.deps.json
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.json
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.dev.json
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\bin\Debug\netcoreapp2.1\BancoDeSeries.dll
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\bin\Debug\netcoreapp2.1\BancoDeSeries.pdb
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.csprojAssemblyReference.cache
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.csproj.CoreCompileInputs.cache
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfoInputs.cache
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfo.cs
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.dll
+D:\Cliente\OneDrive\Projetos\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.pdb
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\bin\Debug\netcoreapp2.1\BancoDeSeries.deps.json
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.json
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\bin\Debug\netcoreapp2.1\BancoDeSeries.runtimeconfig.dev.json
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\bin\Debug\netcoreapp2.1\BancoDeSeries.dll
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\bin\Debug\netcoreapp2.1\BancoDeSeries.pdb
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.csprojAssemblyReference.cache
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfoInputs.cache
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.AssemblyInfo.cs
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.dll
+C:\Users\geraldo.silva\Downloads\BancoDeSeries V 1.1\obj\Debug\netcoreapp2.1\BancoDeSeries.pdb

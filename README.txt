@@ -1,0 +1,2 @@
+Este projeto foi criado para fins de estudo.
+O objetivo do trabalho armazenar uma lista extensiva em algum arquivo de qualquer formato. Depois, o código realizaria a ordenação de acordo o algoritmo  de ordenação selecionado.
